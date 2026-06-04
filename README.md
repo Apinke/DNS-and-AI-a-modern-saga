@@ -5,12 +5,13 @@ It happens billions of times a day. And over 90% of malware use it to communicat
 Most people have never heard of DNS. Most people have no idea it is a battlefield.
 
 # About
+|---|---|---|
 It is a 12-chapter interactive comic covering:
 |1|🔵 How DNS works — the internet's address book explained|
-|2|🔴 How attackers abuse it — phishing, DGA malware, tunnelling, hijacking
-|3|🟢 How AI defends it — real-time detection, zero-hour blocking, SIEM correlation
-|4|🟡 How DNSSEC authenticates it — digital signatures and chain of trust
-|5|🔵 How Cisco Umbrella, Cloudflare, and ICANN operate at global scale
+|2|🔴 How attackers abuse it — phishing, DGA malware, tunnelling, hijacking|
+|3|🟢 How AI defends it — real-time detection, zero-hour blocking, SIEM correlation|
+|4|🟡 How DNSSEC authenticates it — digital signatures and chain of trust|
+|5|🔵 How Cisco Umbrella, Cloudflare, and ICANN operate at global scale|
 |6|🟣 Where it is all heading — quantum-resistant cryptography, autonomous AI agents, federated intelligence
 
 #👩🏾‍💻 About the Author
