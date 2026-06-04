@@ -7,10 +7,15 @@ Most people have never heard of DNS. Most people have no idea it is a battlefiel
 # About
 |---|---|---|
 |1|🔵 How DNS works  |The internet's address book explained|
+
 |2|🔴 How attackers abuse it | Phishing, DGA malware, tunnelling, hijacking|
+
 |3|🟢 How AI defends it |real-time detection, zero-hour blocking, SIEM correlation|
+
 |4|🟡 How DNSSEC authenticates it|digital signatures and chain of trust|
+
 |5|🔵 How Cisco Umbrella, Cloudflare, and ICANN operate at global scale|
+
 |6|🟣 Where it is all heading | quantum-resistant cryptography, autonomous AI agents, federated intelligence
 
 #👩🏾‍💻 About the Author
