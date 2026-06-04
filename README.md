@@ -5,7 +5,7 @@ It happens billions of times a day. And over 90% of malware use it to communicat
 Most people have never heard of DNS. Most people have no idea it is a battlefield.
 
 # About
-|---|---|---|
+
 |1|🔵 How DNS works  |The internet's address book explained|
 
 |2|🔴 How attackers abuse it | Phishing, DGA malware, tunnelling, hijacking|
