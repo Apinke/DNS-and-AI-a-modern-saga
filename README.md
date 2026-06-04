@@ -18,6 +18,23 @@ Most people have never heard of DNS. Most people have no idea it is a battlefiel
 
 |6|🟣 Where it is all heading | quantum-resistant cryptography, autonomous AI agents, federated intelligence
 
+
+## 📝 License <a name="license"></a>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/).
+
+**You are free to:**
+- ✅ Share — copy and redistribute in any medium or format
+- ✅ Adapt — remix, transform, and build upon the material for any purpose, including commercially
+
+**Under the following terms:**
+- 📛 **Attribution** — You must give appropriate credit to **Gbemisola Esho**, provide a link to the license, and indicate if changes were made.
+
+---
+
 #👩🏾‍💻 About the Author
 Gbemisola Esho is a technologist specialising in Cybersecurity and Cloud Computing. She is a Google Developer Expert (GDE), Women Techmakers (WTM) Ambassador, and founder of Connectobridge — an initiative fostering connections through technology, training, and placement.
 
