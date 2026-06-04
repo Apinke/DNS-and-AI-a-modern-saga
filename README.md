@@ -6,6 +6,7 @@ Most people have never heard of DNS. Most people have no idea it is a battlefiel
 
 # About
 |---|---|---|
+
 It is a 12-chapter interactive comic covering:
 |1|🔵 How DNS works  |The internet's address book explained|
 |2|🔴 How attackers abuse it | Phishing, DGA malware, tunnelling, hijacking|
